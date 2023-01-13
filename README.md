@@ -7,7 +7,7 @@ Daniel Corral \
 Brian Lee \
 Nicholas Dao \
 Quoc Tran \
-Christian Jung
+Cristian Jung
 
 ## Project Description:
 In this mini project, the goal was to work in groups to practice building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the provided data. The transformed data would then be exported into the required CSV files that would be utilized to create an ERD, a table schema, and uploaded into a Postgres database.  
