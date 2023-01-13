@@ -1,12 +1,12 @@
 # Crowdfunding_ETL
 
 ### Members:
-Yu-hsi Chen
-Tuan Hoang
-Daniel Corral
-Brian Lee
-Nicholas Dao
-Quoc Tran
+Yu-hsi Chen \
+Tuan Hoang \
+Daniel Corral \
+Brian Lee \
+Nicholas Dao \
+Quoc Tran \
 Christian Jung
 
 ## Project Description:
